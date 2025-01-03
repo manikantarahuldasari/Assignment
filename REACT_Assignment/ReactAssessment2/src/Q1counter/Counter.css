@@ -1,0 +1,30 @@
+.counter{
+    width:500px;
+    padding:30px;
+    text-align: center;
+    margin: 100px auto;
+}
+.dec{
+    width: 500;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 30px;
+    margin-right: 5px;
+    background-color: green;
+}
+.res{
+    font-size: 22px;
+    font-weight: bold;
+    margin-right: 5px;
+    padding: 30px;
+    background-color: red;
+}
+.inc{
+    width: 500;
+    margin-right: 5px;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 30px;
+    background-color: blue;
+
+}

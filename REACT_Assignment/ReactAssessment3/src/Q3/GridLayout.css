@@ -1,0 +1,35 @@
+.grid-container{
+    border: 2px solid black;
+    display: grid;
+
+}
+.grid-item1{
+    border: 2px solid red;
+    grid-row: 1;
+    grid-column: 1 
+    
+}
+.grid-item2{
+    border: 2px solid green;
+    grid-row: 1 ;
+    grid-column: 2;
+}
+.grid-item3{
+    border: 2px solid yellow;
+    grid-row: 2;
+    grid-column:1 ;
+    padding-top: 10px;
+}
+.grid-item4{
+    border: 2px solid orange;
+    grid-row: 2;
+    grid-column:2 ;
+    padding-top: 10px;
+}
+.grid-item5{
+    border: 2px solid blue;
+    
+    grid-row: 3;
+    grid-column:1 ;
+    padding-top: 10px;
+}
