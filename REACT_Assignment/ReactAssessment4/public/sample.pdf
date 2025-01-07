@@ -1,0 +1,15 @@
+1. React Elements
+1. Create a functional React component called Greeting that accepts a name prop and
+renders "Hello, [name]".
+Input:
+<Greeting name="John" />
+Expected Output:
+Hello, John
+2. Create a React component called Counter that initializes a count state to 0 and renders a
+button. When clicked, the button should increment the count by 1.
+Expected Output:
+A button that, when clicked, updates and displays the current count starting from 0.
+3. Write a React component called Product that displays a product's name and price. The
+price should be formatted to two decimal places.
+Input:
+<Product name="Laptop" price
